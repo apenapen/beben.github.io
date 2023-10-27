@@ -5,6 +5,21 @@
 #projek {
   background-color: #e2edff;
 }
-section {
+/* section {
   padding-top: 5rem;
+}
+#about {
+  background-size: 100vh;
+}
+#projek {
+  background-size: 100vh;
+}
+#contact {
+  background-size: 100vh;
+} */
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
 }
